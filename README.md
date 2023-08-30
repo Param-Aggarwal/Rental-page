@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+### DESCRIPTION
+1. It has multi category filter functionality
+2. User can filter based on even one of the categories rather than all four.
+3. Custom Hooks implementation
+4. Website is responsive
+
+

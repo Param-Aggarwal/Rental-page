@@ -1,0 +1,130 @@
+{
+  "data": [
+    {
+      "name": "Garg Nivas",
+      "image": "https://www.investopedia.com/thmb/OQxvtmsJwBCy6kVw86E-ooDRVqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rent_house_73089751-5bfc333346e0fb002602ddbe.jpg", 
+      "id": 1,
+      "price": 2200,
+      "address": "Delhi",
+      "beds": 3,
+      "bathrooms": 2,
+      "area": "6x7",
+      "when": "1 month",
+      "type": "A"
+    },
+    {
+      "name": "Singla Nivas",
+      "image": "https://www.investopedia.com/thmb/OQxvtmsJwBCy6kVw86E-ooDRVqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rent_house_73089751-5bfc333346e0fb002602ddbe.jpg", 
+      "id": 2,
+      "price": 2200,
+      "address": "Mumbai",
+      "beds": 2,
+      "bathrooms": 2,
+      "area": "6x7",
+      "when": "1 month",
+      "type": "A"
+    },{
+      "name": "Oberois Mansion",
+      "image": "https://www.investopedia.com/thmb/OQxvtmsJwBCy6kVw86E-ooDRVqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rent_house_73089751-5bfc333346e0fb002602ddbe.jpg",
+      "id": 3,
+      "price": 2200,
+      "address": "Pune",
+      "beds": 2,
+      "bathrooms": 1,
+      "area": "6x7",
+      "when": "1 month",
+      "type": "B"
+    },{
+      "name": "Garg Nivas",
+      "image": "https://www.investopedia.com/thmb/OQxvtmsJwBCy6kVw86E-ooDRVqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rent_house_73089751-5bfc333346e0fb002602ddbe.jpg",
+      "id": 4,
+      "price": 2200,
+      "address": "Pune",
+      "beds": 3,
+      "bathrooms": 2,
+      "area": "6x7",
+      "when": "2 months",
+      "type": "B"
+    },{
+      "name": "Garg Nivas",
+      "image": "https://www.investopedia.com/thmb/OQxvtmsJwBCy6kVw86E-ooDRVqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rent_house_73089751-5bfc333346e0fb002602ddbe.jpg",
+      "id": 5,
+      "price": 4000,
+      "address": "Calcutta",
+      "beds": 3,
+      "bathrooms": 2,
+      "area": "6x7",
+      "when": "2 months",
+      "type": "C"
+    },{
+      "name": "Singla Nivas",
+      "image": "https://www.investopedia.com/thmb/OQxvtmsJwBCy6kVw86E-ooDRVqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rent_house_73089751-5bfc333346e0fb002602ddbe.jpg", 
+      "id": 6,
+      "price": 500,
+      "address": "Delhi",
+      "beds": 1,
+      "bathrooms": 1,
+      "area": "6x7",
+      "when": "immediately",
+      "type": "C"
+    },
+    {
+      "name": "Garg Nivas",
+      "image": "https://www.investopedia.com/thmb/OQxvtmsJwBCy6kVw86E-ooDRVqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rent_house_73089751-5bfc333346e0fb002602ddbe.jpg", 
+      "id": 7,
+      "price": 7000,
+      "address": "Mumbai",
+      "beds": 3,
+      "bathrooms": 2,
+      "area": "6x7",
+      "when": "immediately",
+      "type": "D"
+    },
+    {
+      "name": "Kumar Nivas",
+      "image": "https://www.investopedia.com/thmb/OQxvtmsJwBCy6kVw86E-ooDRVqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rent_house_73089751-5bfc333346e0fb002602ddbe.jpg",
+      "id": 8,
+      "price": 2200,
+      "address": "Bangalore",
+      "beds": 2,
+      "bathrooms": 3,
+      "area": "6x7",
+      "when": "2 months",
+      "type": "D"
+    },
+    {
+      "name": "Garg Nivas",
+      "image": "https://www.investopedia.com/thmb/OQxvtmsJwBCy6kVw86E-ooDRVqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rent_house_73089751-5bfc333346e0fb002602ddbe.jpg",
+      "id": 9,
+      "price": 5400,
+      "address": "Bangalore",
+      "beds": 3,
+      "bathrooms": 2,
+      "area": "6x7",
+      "when": "6 months",
+      "type": "B"
+    },{
+      "name": "Billu  niwas",
+      "image": "https://www.investopedia.com/thmb/OQxvtmsJwBCy6kVw86E-ooDRVqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rent_house_73089751-5bfc333346e0fb002602ddbe.jpg",
+      "id": 10,
+      "price": 2200,
+      "address": "Calcutta",
+      "beds": 2,
+      "bathrooms": 2,
+      "area": "6x7",
+      "when": "6 months",
+      "type": "B"
+    },{
+      "name": "Billu  niwas",
+      "image": "https://www.investopedia.com/thmb/OQxvtmsJwBCy6kVw86E-ooDRVqs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/rent_house_73089751-5bfc333346e0fb002602ddbe.jpg",
+      "id": 11,
+      "price": 2200,
+      "address": "Calcutta",
+      "beds": 2,
+      "bathrooms": 2,
+      "area": "6x7",
+      "when": "6 months",
+      "type": "B"
+    }
+  ]
+}

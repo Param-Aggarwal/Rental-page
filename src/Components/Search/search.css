@@ -1,0 +1,27 @@
+.search {
+    display: flex;
+    align-items: center;
+    background-color: aliceblue;
+    padding: 3%;
+}
+
+.options {
+    flex: 5;
+    display: flex;
+}
+
+.options div {
+    flex-shrink: 1;
+    font-size: 1.1em;
+}
+
+.option {
+    font-size: 1.3em;
+
+}
+
+.search-btn {
+    padding: 8px 15px;
+    flex: 1;
+    max-width: 100px;
+}
